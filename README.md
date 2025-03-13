@@ -1,9 +1,9 @@
 # 📱 Desenvolvimento de Aplicativo Híbrido com React Native e Expo 🚀  
 
 <p align="center">
-  <img src="assets/img/img-inicio.png" alt="Tela Inicial" width="21%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/img/img-resultado.png" alt="Tela de Resultado" width="21%">
+  <img src="assets/img/img-inicio.png" alt="Tela Inicial" width="30%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/img/img-resultado.png" alt="Tela de Resultado" width="30%">
 </p>
 Este projeto foi desenvolvido com o apoio do curso da Plataforma +IFMG.  
 O objetivo é implementar uma aplicação prática em **React Native**, compatível com dispositivos **Android** e **iOS**.
